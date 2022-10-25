@@ -1,0 +1,42 @@
+[
+    {
+      "id": "01",
+      "name": "Fundamentals of Marketing",
+	    "image": "https://future-bh.com/wp-content/uploads/2020/11/Marketing-Fundamental-.jpg"
+    },
+    {
+      "id": "02",
+      "name": "Marketing Management",
+	    "image": "https://elearn.daffodilvarsity.edu.bd/pluginfile.php/1105388/course/section/219507/f954afa7-54b4-4d06-b096-65a3493c674a.png"
+    },
+    {
+      "id": "03",
+      "name": "Marketing Strategy & Planning",
+	    "image": "https://yorcmo.com/wp-content/uploads/2021/09/Fundamentals_of_Marketing_header.jpg"
+    },
+    {
+      "id": "04",
+      "name": "Sales & Marketing",
+	    "image": "https://caodang.fpt.edu.vn/wp-content/uploads/Inkedban-da-biet-phan-biet-marketing-va-sales_LI.jpg"
+    },
+    {
+      "id": "05",
+      "name": "Sales & Customer Communications",
+	    "image": "https://edupmquestionhelp.s3.ap-south-1.amazonaws.com/assets/images/1640771229761640771229.png"
+    },
+    {
+      "id": "06",
+      "name": "Customer Relationship Management",
+	    "image": "https://leverageedu.com/blog/wp-content/uploads/2020/06/Types-of-Business-Communication.jpg"
+    },
+    {
+      "id": "07",
+      "name": "Fundamentals of Branding",
+	    "image": "https://s25180.pcdn.co/wp-content/uploads/2017/03/iStock-518211432_crop.jpg"
+    },
+    {
+      "id": "08",
+      "name": "Personal & Proffessional Branding",
+	    "image": "https://www.shethepeople.tv/wp-content/uploads/2020/04/WhatsApp-Image-2020-04-07-at-1.58.58-PM.jpeg"
+    }
+  ]
