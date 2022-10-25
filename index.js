@@ -1,8 +1,11 @@
 const express = require('express')
 const app = express();
+const cors = require('cors');
 const port = process.env.PORT || 7000;
 
-const topics = require ('./Data/topics.json');
+app.use(cors());
+
+const topics = require ('./Data/courses.json');
 
 app.get('/', (req, res) => {
     res.send('marketing Api running');
