@@ -2,12 +2,15 @@
     {
       "id": "01",
       "name": "Fundamentals of Marketing",
-	    "image": "https://future-bh.com/wp-content/uploads/2020/11/Marketing-Fundamental-.jpg"
+	    "image": "https://future-bh.com/wp-content/uploads/2020/11/Marketing-Fundamental-.jpg",
+        
+      "details": "In the late 20th century, marketing thought leaders developed the concept of the “Marketing Mix,” a set of concepts and tools that help companies achieve their objectives within a market."
     },
     {
       "id": "02",
       "name": "Marketing Management",
-	    "image": "https://elearn.daffodilvarsity.edu.bd/pluginfile.php/1105388/course/section/219507/f954afa7-54b4-4d06-b096-65a3493c674a.png"
+	    "image": "https://elearn.daffodilvarsity.edu.bd/pluginfile.php/1105388/course/section/219507/f954afa7-54b4-4d06-b096-65a3493c674a.png",
+      "details": "Marketing Management is a course that examines the role and importance of marketing in the firm and other organizations. We will cover topics such as marketing plans/strategies, marketing research, market segmentation, retailing, advertising, pricing, Internet marketing, etc. You will find the course interesting and informative. Keep on top of the work. "
     },
     {
       "id": "03",
@@ -17,7 +20,8 @@
     {
       "id": "04",
       "name": "Sales & Marketing",
-	    "image": "https://caodang.fpt.edu.vn/wp-content/uploads/Inkedban-da-biet-phan-biet-marketing-va-sales_LI.jpg"
+	    "image": "https://caodang.fpt.edu.vn/wp-content/uploads/Inkedban-da-biet-phan-biet-marketing-va-sales_LI.jpg",
+      "details": "Want to get on in Sales and Marketing? It’s a truly exciting career path. It’s fast paced, dynamic and full of challenges. Our sales training course can give you the sales certification that employers are looking for."
     },
     {
       "id": "05",

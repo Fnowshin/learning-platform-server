@@ -27,7 +27,7 @@ app.get('/topics', (req, res) => {
 
 app.get('/details/:id', (req, res) => {
     const id = req.params.id;
-    const clickedDetails = details.find( detail =>detail._id === id);
+    const clickedDetails = details.find( detail =>detail.id === id);
     res.send(clickedDetails);
 })
 
